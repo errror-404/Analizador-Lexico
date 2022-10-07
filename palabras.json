@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "palabra": "casa"
+  },
+  {
+    "id": 2,
+    "palabra": "perro"
+  },
+  {
+    "id": 3,
+    "palabra": "gato"
+  },
+  {
+    "id": 4,
+    "palabra": "664-480-3436"
+  },
+  {
+    "id": 5,
+    "palabra": "alan@tectijuana.edu.mx"
+  },
+  {
+    "id": 6,
+    "palabra": "var"
+  },
+  {
+    "id": 7,
+    "palabra": "let"
+  },
+  {
+    "id": 8,
+    "palabra": "const"
+  },
+  {
+    "id": 9,
+    "palabra": " "
+  },
+  {
+    "id": 10,
+    "palabra": "{"
+  },
+  {
+    "id": 11,
+    "palabra": "}"
+  },
+  {
+    "id": 12,
+    "palabra": "("
+  },
+  {
+    "id": 13,
+    "palabra": ")"
+  },
+  {
+    "id": 14,
+    "palabra": ";"
+  },
+  {
+    "id": 15,
+    "palabra": "function"
+  },
+  {
+    "id": 16,
+    "palabra": "function"
+  }
+]
